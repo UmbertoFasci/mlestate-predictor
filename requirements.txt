@@ -1,0 +1,35 @@
+# API Framework
+fastapi
+uvicorn
+gunicorn
+python-multipart
+
+# Data Processing
+numpy
+pandas
+scikit-learn
+joblib
+
+# Advanced ML Models
+xgboost
+lightgbm
+catboost
+
+# Deep Learning
+tensorflow
+keras
+
+# Model Explainability
+shap
+lime
+
+# Text Processing
+nltk
+gensim
+
+# Testing
+pytest
+httpx
+
+# Utilities
+python-dotenv
